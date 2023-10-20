@@ -1,11 +1,14 @@
 # Bank-Customer-Churn-Analysis-Power-BI-Dashboard
 
+![Customer Churn Analysis Dashboard](Dashboard%20Screenshot.png)
+
 ## 1) Data Used
 
 **Data Description:**
 
 Used a Kaggle Dataset 
 "**[Bank Customer Churn Dataset](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn?select=Customer-Churn-Records.csv)**" 
+
 Features:
 RowNumber — corresponds to the record (row) number and has no effect on the output. CustomerId—contains random values and has no effect on customer leaving the bank. 
 Surname — the surname of a customer has no impact on their decision to leave the bank. CreditScore—can have an effect on customer churn, since a customer with a higher credit score is less likely to leave the bank. 
@@ -76,8 +79,8 @@ The **Customer Churn Analysis Dashboard** is a dynamic and interactive visualiza
 
 ### How to Use:
 
-1. **Click the Link:** Access the [Customer Churn Analysis Dashboard](link/to/Amazon%20Sales%20Dashboard.pbix) to explore the interactive visualizations.
-2. **Interact with Slicers :** Use slicers to filter data based on product ratings and explore specific categories. 
+1. **Click the Link:** Access the [Customer Churn Analysis Dashboard](link/to/Customer%20Churn%20Analysis.pbix) to explore the interactive visualizations.
+2. **Interact with Slicers :** Use slicers to filter data based on age groups and churn status. 
 
     
 
