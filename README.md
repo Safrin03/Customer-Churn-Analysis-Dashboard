@@ -79,7 +79,7 @@ The **Customer Churn Analysis Dashboard** is a dynamic and interactive visualiza
 
 ### How to Use:
 
-1. **Click the Link:** Access the [Customer Churn Analysis Dashboard](link/to/Customer%20Churn%20Analysis.pbix) to explore the interactive visualizations.
+1. **Click the Link:** Access the [Customer Churn Analysis Dashboard](Customer%20Churn%20Analysis.pbix) to explore the interactive visualizations.
 2. **Interact with Slicers :** Use slicers to filter data based on age groups and churn status. 
 
     
