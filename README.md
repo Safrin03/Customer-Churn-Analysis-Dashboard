@@ -1,4 +1,35 @@
-# Customer-Churn-Analysis-Dashboard
+# Bank-Customer-Churn-Analysis-Power-BI-Dashboard
+
+## 1) Data Used
+
+**Data Description:**
+
+Used a Kaggle Dataset 
+"**[Bank Customer Churn Dataset](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn?select=Customer-Churn-Records.csv)**" 
+Features:
+RowNumber — corresponds to the record (row) number and has no effect on the output. CustomerId—contains random values and has no effect on customer leaving the bank. 
+Surname — the surname of a customer has no impact on their decision to leave the bank. CreditScore—can have an effect on customer churn, since a customer with a higher credit score is less likely to leave the bank. 
+Geography — a customer’s location can affect their decision to leave the bank. 
+Gender — it’s interesting to explore whether gender plays a role in a customer leaving the bank. Age—this is certainly relevant, since older customers are less likely to leave their bank than younger ones. 
+Tenure — refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank. 
+Balance — also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances. 
+NumOfProducts — refers to the number of products that a customer has purchased through the bank. 
+HasCrCard — denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank. 
+IsActiveMember — active customers are less likely to leave the bank. 
+EstimatedSalary — as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries. 
+Exited — whether or not the customer left the bank. 
+Complain — customer has complaint or not. 
+Satisfaction Score — Score provided by the customer for their complaint resolution. 
+Card Type — type of card hold by the customer. 
+Points Earned — the points earned by the customer for using credit card.
+
+**Data Cleaning & Analysis:**
+Power BI
+
+**Data Visualization:**
+Power BI
+
+## 2) Questions
 
 1) What is the demographic profile (age, gender, geography) of customers more likely to churn?
 2) Is there a significant difference in churn rates between different geographic locations or genders?
@@ -11,7 +42,7 @@
 9) What strategies could the bank employ to retain high-value customers? (Explore churn patterns for high-value customers)
 10) Are there common patterns in the behavior of retained customers that could be used to inform retention strategies?
 
-
+## 3) Summary Findings
 
 1) Customers aged 41-50 and 51-60 have the highest churn rates, indicating a vulnerable segment within the customer base. Among churned customers, France and Germany have the highest churn rates compared to Spain.
 2) Churned customers have a higher average account balance, suggesting that financial status alone does not prevent churn.
@@ -28,6 +59,25 @@
 
 
 These findings provide valuable insights into the customer segments and factors influencing churn. Crafting targeted retention strategies addressing these specific points can enhance customer loyalty and reduce churn rates effectively.
+
+## 4) Dashboard
+### Overview:
+
+The **Customer Churn Analysis Dashboard** is a dynamic and interactive visualization tool created using Power BI. This dashboard provides a comprehensive analysis of customer churn within banking services. By exploring various demographic factors, financial behaviours, and customer engagement metrics, this dashboard offers valuable insights to understand and mitigate customer churn.
+
+### Key Features:
+
+- **Demographic Insights:** Explore customer churn based on age, gender, and geographical regions.
+- **Financial Insights:** Analyze the impact of account balance, credit scores, credit card ownership, and product preferences on churn rates.
+- **Customer Engagement Metrics:** Understand the influence of customer activity, tenure, and satisfaction scores on churn behavior.
+- **Gender Analysis:** Investigate churn patterns based on gender and identify any gender-specific trends.
+- **Geographical Comparison:** Compare churn rates across different countries to pinpoint areas needing targeted interventions.
+- **Interactive Visualizations:** Engage with interactive charts, graphs, and filters for in-depth exploration.
+
+### How to Use:
+
+1. **Click the Link:** Access the [Customer Churn Analysis Dashboard](link/to/Amazon%20Sales%20Dashboard.pbix) to explore the interactive visualizations.
+2. **Interact with Slicers :** Use slicers to filter data based on product ratings and explore specific categories. 
 
     
 
